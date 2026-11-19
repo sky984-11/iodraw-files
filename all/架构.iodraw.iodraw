@@ -17,6 +17,9 @@
             <mxPoint x="560" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8S5EjMRhtrtNTmEz4FUq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8S5EjMRhtrtNTmEz4FUq-1" target="8S5EjMRhtrtNTmEz4FUq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-1" value="JumpServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-15" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8S5EjMRhtrtNTmEz4FUq-17" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
