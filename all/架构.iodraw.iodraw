@@ -34,7 +34,7 @@
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-5" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8S5EjMRhtrtNTmEz4FUq-11" value="Finwork" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8S5EjMRhtrtNTmEz4FUq-11" value="WEB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-13" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
