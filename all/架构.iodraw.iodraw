@@ -10,8 +10,13 @@
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8S5EjMRhtrtNTmEz4FUq-2" target="8S5EjMRhtrtNTmEz4FUq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8S5EjMRhtrtNTmEz4FUq-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8S5EjMRhtrtNTmEz4FUq-3">
+          <mxGeometry y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-2" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="30" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
