@@ -7,6 +7,12 @@
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-1" value="JumpServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8S5EjMRhtrtNTmEz4FUq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8S5EjMRhtrtNTmEz4FUq-2" target="8S5EjMRhtrtNTmEz4FUq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8S5EjMRhtrtNTmEz4FUq-2" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
