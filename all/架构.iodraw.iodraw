@@ -7,9 +7,6 @@
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8S5EjMRhtrtNTmEz4FUq-1" target="8S5EjMRhtrtNTmEz4FUq-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8S5EjMRhtrtNTmEz4FUq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8S5EjMRhtrtNTmEz4FUq-1" target="8S5EjMRhtrtNTmEz4FUq-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-1" value="JumpServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,8 +24,11 @@
         <mxCell id="8S5EjMRhtrtNTmEz4FUq-5" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8S5EjMRhtrtNTmEz4FUq-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="8S5EjMRhtrtNTmEz4FUq-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
